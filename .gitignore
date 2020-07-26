@@ -1,0 +1,11 @@
+*.json
+data/stream_position.csv
+venv/
+data/lcao_extracts/*.csv
+data/log/*.log
+data/configuration/prod.yml
+__pycache__
+.DS_Store
+.idea/
+.pytest_cache/
+env
