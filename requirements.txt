@@ -10,7 +10,7 @@ click==7.1.2
 colorama==0.4.3
 configparser==5.0.0
 crayons==0.3.0
-cryptography==2.9.2
+cryptography==3.2
 dnspython==1.16.0
 Faker==4.1.0
 idna==2.9
