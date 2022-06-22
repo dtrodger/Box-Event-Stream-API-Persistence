@@ -16,7 +16,7 @@ Faker==4.1.0
 idna==2.9
 mongoengine==0.20.0
 multidict==4.7.6
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.3
 pycparser==2.20
 PyJWT==1.7.1
